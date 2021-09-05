@@ -1,14 +1,23 @@
 # SafelyHiddenAway
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Uuuggggs mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1322196379
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/CN9Rs5X.png)
 
+
+[table]
+    [tr]
+        [td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
+[/td]
+        [td]https://github.com/emipa606/SafelyHiddenAway]![Image](https://i.imgur.com/kTkpTOE.png)
+[/td]
+    [/tr]
+[/table]
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 Bases that are in remote locations don't get raided as often. Travel time to islands is determined by nearest coast, plus a few days.
 
@@ -32,7 +41,7 @@ Works with old saves, can be removed (there'll be an error resetting the raid ti
 Ludeon forum thread: https://ludeon.com/forums/index.php?topic=39333.0
 Source on github: https://github.com/alextd/RimWorld-SafelyHiddenAway
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 

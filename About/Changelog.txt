@@ -1,4 +1,7 @@
 # Changelog for SafelyHiddenAway
 
+2.2.3.0 - Last update, added end-of-life message
+
+
 2.2.2.0 - Updated to 1.3
 
