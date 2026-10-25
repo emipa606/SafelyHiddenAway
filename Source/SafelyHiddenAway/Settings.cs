@@ -16,17 +16,16 @@ public class Settings : ModSettings
 
     public float IsolatedMountainValleyDays = 10.0f;
 
-    //TODO: save per map
     public bool LOGResults;
-    private float scrollHeight;
-
-    private Vector2 scrollPos;
     public float VisitDiminishingFactor = 2.0f;
     public float WealthCurvy = 10f;
     public float WealthFactor = 1f;
 
     public float WealthLimit = 200000;
     public float WealthMax = 600000;
+    private float scrollHeight;
+
+    private Vector2 scrollPos;
 
     public void DoWindowContents(Rect rect)
     {

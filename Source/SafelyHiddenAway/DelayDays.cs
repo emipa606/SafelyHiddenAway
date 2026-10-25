@@ -7,7 +7,7 @@ using Verse;
 
 namespace Safely_Hidden_Away;
 
-internal class DelayDays
+internal static class DelayDays
 {
     private static readonly List<PlanetTile> neighborTiles = [];
 
@@ -28,7 +28,6 @@ internal class DelayDays
             (wo is Settlement || wo is Site s && s.parts.Any(part => part.def == SitePartDefOf.Outpost))
             && wo.Faction != null && factionValidator(wo.Faction);
 
-        //bool factionBase = false, water = false; 
         if (!tryFindClosestTile(tile, t => !Find.World.Impassable(t), worldValidator, out var foundTile))
         {
             tryFindClosestTile(tile, t => !Find.World.Impassable(t) || waterValidator(t), waterValidator,

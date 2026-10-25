@@ -5,7 +5,7 @@ using Verse;
 namespace Safely_Hidden_Away;
 
 [HarmonyPatch(typeof(StoryState), nameof(StoryState.Notify_IncidentFired))]
-internal class StoryState_Notify_IncidentFired
+internal static class StoryState_Notify_IncidentFired
 {
     //StoryState
     public static void Postfix(StoryState __instance, FiringIncident fi, IIncidentTarget ___target,
